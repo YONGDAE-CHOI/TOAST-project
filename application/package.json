@@ -1,0 +1,27 @@
+{
+  "name": "my-wallet",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fabric-ca-client": "^2.2.14",
+    "fabric-network": "^2.2.14",
+    "startbootstrap-stylish-portfolio": "^6.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saarc/my-wallet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saarc/my-wallet/issues"
+  },
+  "homepage": "https://github.com/saarc/my-wallet#readme",
+  "description": ""
+}
